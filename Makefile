@@ -3,5 +3,5 @@ all: install
 install:
 	pipenv install
 
-main:
+run:
 	pipenv run python src/main.py
